@@ -1,0 +1,44 @@
+P{
+    background-color: palevioletred;
+}
+
+#Rey{
+    color:mediumorchid
+}
+
+div{
+    width: 200;
+    height: 200;
+    margin: 20px 50px;
+    padding: 30px;
+    border: solid seashell
+
+    }
+
+#Rene {
+    color:rgb(223, 77, 106), (67, 101)
+}
+
+
+.CH35{
+    color:steelblue
+}
+
+.Generation{
+
+width:200;
+height:auto;
+margin: auto;
+padding: 30px;
+border:salmon;
+
+}
+
+    div{
+        width: 200;
+        height: 200;
+        margin: 20px 50px;
+        padding: 30px;
+        border: solid rgb(0, 126, 165)
+
+    }
